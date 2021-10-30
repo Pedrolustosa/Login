@@ -22,3 +22,30 @@ Bem vindo ao curso mais completo de Bootstrap 5 a versão mais recente do Framew
 - Ao final você conseguirá desenvolver sites responsivos, seguindo as melhores práticas e em tempo recorde. Tudo que um desenvolvedor precisa!
 
 </details>
+
+<details>
+<summary>EN</summary>
+
+Welcome to the most comprehensive Bootstrap 5 course, the latest version of the most popular CSS Framework on the internet.
+
+* In this course you will learn how to use the Bootstrap framework and understand the main features of this tool that will help you to develop websites in a fast, modern and responsive way. Bootstrap is the most popular framework for offering agility and professionalism to your projects (sites/systems), no more wasting time redoing the wheel, now you don't need to create new CSS styles for each project, with Bootstrap you reuse the best patterns in the creation of websites and has access to various resources such as icons and components to enhance your project.
+
+## Below you can see a list of some of the features we will teach in the course:
+
+- Structure your websites with the Bootstrap Grid system.
+- Work with typography variations.
+- Understand Bootstrap color system and apply to any component.
+- Use Bootstrap Icons, a vast free icon library.
+- Create navigation menus.
+- Create responsive websites, that is, adapted to any screen size (Smartphones, Tablets, PCs and TVs).
+- Work with tables, nested elements and much more.
+- Use the various components offered by Bootstrap such as: Cards, Buttons, Dropdown, Accordion, Tooltips, Toasts, Carousel, Modal, Spinner, Breadcrumb, Pagination, Badge, Alert and much more.
+- Customize Bootstrap to fit your project needs using SASS.
+- To practice we will be developing 3 projects during the course, so you will fix the content and receive tips to improve your layout.
+- All this and much more...
+- In the end you will be able to develop responsive websites, following the best practices and in record time. Everything a developer needs!
+
+</details>
+
+
+UDEMY COURSE - https://www.udemy.com/course/bootstrap-5-curso-completo-3-projetos/
